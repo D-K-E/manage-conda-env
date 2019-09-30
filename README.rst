@@ -2,7 +2,10 @@
 Gérer des Environnements avec Conda
 ####################################
 
-Gérer des environnements avec le gestionnaire de paquet :code:`conda`
+Gérer des environnements avec le gestionnaire de paquet :code:`conda`.
+
+C'est dépôt fait partie des supports de cours de séminaire intensif pour les
+débutants ou grands débutants à l'informatique.
 
 
 Installation
