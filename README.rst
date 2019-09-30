@@ -1,8 +1,8 @@
-#################
-manage-conda-env
-#################
+####################################
+Gérer des Environnements avec Conda
+####################################
 
-Gérer des environnements avec conda
+Gérer des environnements avec le gestionnaire de paquet :code:`conda`
 
 
 Installation
