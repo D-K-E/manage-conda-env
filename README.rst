@@ -55,7 +55,7 @@ On peut créer un :code:`environnement.yml`:
 - D'abord notez les environnements déjà installés
 - :code:`conda activate monEnv`
 - :code:`conda env export > nomEnvironnement.yml`
-- :code:`conda create --name monEnv --file nomEnvironnement.yml`
+- :code:`conda env create --file nomEnvironnement.yml`
 - Voyez le nom de l'environnement soit par :code:`cat nomEnvironnement.yml`
   soit par :code:`conda info --envs`
 
@@ -71,6 +71,13 @@ Exemple
 
 - :code:`conda install -c conda-forge scipy`
 
+
+Supprimer des Environnements
+==============================
+
+Voici comment on supprime l'environnement:
+
+- :code:`conda remove --name nomEnv --all`
 
 Exercice
 =========
