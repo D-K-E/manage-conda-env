@@ -75,6 +75,9 @@ Exemple
 Supprimer des Environnements
 ==============================
 
+Soyez sur que vous avez désactivé l'environnement avec 
+:code:`conda deactivate`.
+
 Voici comment on supprime l'environnement:
 
 - :code:`conda remove --name nomEnv --all`
